@@ -1,4 +1,4 @@
-# 🌟 JOURNEY TO AI MASTERY 🌌
+# 🌟 Journey to AI Mastery 🌌
 
 Embark on an exhilarating adventure towards becoming an AI Engineer, designed to guide you through the vast and dynamic landscape of Artificial Intelligence. This curated learning path paves the way for aspirants, from foundational knowledge to cutting-edge techniques, ensuring a comprehensive understanding and hands-on experience in the field of AI. 🚀🤖
 
@@ -66,7 +66,7 @@ This plan assumes you start with no prior knowledge in these areas. Remember, ad
 
 ---
 
-# Phase 2: Deep Dive into Generative AI (6 months) - Daily 1-hour Learning Cycles 🌌
+## Phase 2: Deep Dive into Generative AI (6 months) - Daily 1-hour Learning Cycles 🌌
 
 Continuing your journey towards generative AI mastery, this phase builds upon your foundational knowledge. Aim for 1 hour of focused learning per day, with Day 7 for rest and reflection. Remember to adjust the pace and resources based on your needs.
 
